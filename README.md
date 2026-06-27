@@ -1,134 +1,18 @@
-````md
-<div align="center">
+# 💫 About Me:
+Hello! 💕 I'm **Amanda Oliveira**, a Software Engineering student from Brazil 🇧🇷 who dreams of becoming a Backend Developer. I'm currently learning **Python, Java, and Go**, exploring the world of Cloud and DevOps, and building projects that help me improve every day. I love turning ideas into code and believe that every small step brings me closer to my goals. 🌷✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FF69B4&text=Amanda%20Oliveira&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi,+I'm+Amanda!;%F0%9F%92%BB+Software+Engineering+Student;%F0%9F%90%8D+Python+%7C+Go+%7C+Java;%E2%98%81%EF%B8%8F+Backend+%26+Cloud+Enthusiast"/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devv.mandy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amanda Oliver) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandaribeira07@gmail.com) 
 
-</div>
-
----
-
-# 🌸 About Me
-
-```python
-class AmandaOliveira:
-
-    location = "Rio de Janeiro 🇧🇷"
-
-    studying = [
-        "Python",
-        "Go",
-        "Java",
-        "Cloud Computing",
-        "Backend Development"
-    ]
-
-    currently = "Software Engineering Student"
-
-    dream = "Become a Backend Software Engineer"
-
-    motto = "Small progress every day."
-```
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=amandaribeira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=amandaribeira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=amandaribeira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=amandaribeira&icon=4&color=5)](https://visitcount.itsvg.in)
 
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,go,java,html,css,js,git,github,linux,vscode,pycharm"/>
-
-</div>
-
----
-
-# 🌷 Currently Learning
-
-🌸 Python
-
-🌸 Go
-
-🌸 Java
-
-🌸 Git & GitHub
-
-🌸 Linux
-
-🌸 Cloud
-
-🌸 Backend Development
-
----
-
-# 🎯 Goals
-
-🩷 Build real-world projects
-
-🩷 Get my first internship
-
-🩷 Master Backend Development
-
-🩷 Learn Cloud Computing
-
-🩷 Contribute to Open Source
-
----
-
-# 📂 Featured Projects
-
-🚧 Coming Soon...
-
-🐍 Python
-
-🐹 Go
-
-☕
-
-Java
-
-⚡ APIs
-
-☁️ Cloud
-
----
-
-# 🌸 Connect with Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/SEU-LINK/">
-<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/SEUUSUARIO">
-<img src="https://img.shields.io/badge/Instagram-ff1493?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=amandaribeira&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌸 *"Code with passion. Learn with purpose."*
-
-💖 Thanks for visiting my profile!
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FF69B4"/>
-
-````
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
