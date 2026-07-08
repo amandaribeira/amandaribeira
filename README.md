@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Amanda Oliveira<br>💻 Software Engineering<br>☕ Backend Development (Java | Kotlin | Go)<br>🌱 Currently specializing in Backend Development<br>📍 Rio de Janeiro, Brazil
+👋 Hi! I'm Amanda Oliveira<br>💻 Software Engineering<br>☕ Backend Development (Java | Kotlin | Go)<br>🌱 Currently training in Backend Development<br>📍 Rio de Janeiro, Brazil
 
 
 ## 🌐 Socials:
